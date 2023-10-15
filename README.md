@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning **JS & React , but love to gossip techs**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
